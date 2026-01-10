@@ -1,0 +1,447 @@
+{
+  "metadata": {
+    "total_groups": 19,
+    "unique_configurations": 9
+  },
+  "group_definitions": {
+    "1": {
+      "composition": [
+        1,
+        1
+      ],
+      "count": 2,
+      "semantic_label": ""
+    },
+    "2": {
+      "composition": [
+        10,
+        10,
+        13
+      ],
+      "count": 1,
+      "semantic_label": ""
+    },
+    "3": {
+      "composition": [
+        11,
+        11,
+        12
+      ],
+      "count": 1,
+      "semantic_label": ""
+    },
+    "4": {
+      "composition": [
+        14,
+        15,
+        15
+      ],
+      "count": 3,
+      "semantic_label": ""
+    },
+    "5": {
+      "composition": [
+        10,
+        10,
+        11,
+        11
+      ],
+      "count": 2,
+      "semantic_label": ""
+    },
+    "6": {
+      "composition": [
+        14,
+        15
+      ],
+      "count": 2,
+      "semantic_label": ""
+    },
+    "7": {
+      "composition": [
+        10,
+        10,
+        11,
+        11,
+        12,
+        13
+      ],
+      "count": 2,
+      "semantic_label": ""
+    },
+    "8": {
+      "composition": [
+        28,
+        29
+      ],
+      "count": 2,
+      "semantic_label": ""
+    },
+    "9": {
+      "composition": [
+        28,
+        28,
+        29,
+        29
+      ],
+      "count": 4,
+      "semantic_label": ""
+    }
+  },
+  "group_instances": [
+    {
+      "page": 1,
+      "members": [
+        1,
+        13
+      ],
+      "member_shapes": [
+        1,
+        1
+      ],
+      "centroid_avg": [
+        24416.75,
+        35680.25
+      ],
+      "group_type_id": 1
+    },
+    {
+      "page": 1,
+      "members": [
+        3,
+        12
+      ],
+      "member_shapes": [
+        1,
+        1
+      ],
+      "centroid_avg": [
+        25269.75,
+        36533.25
+      ],
+      "group_type_id": 1
+    },
+    {
+      "page": 1,
+      "members": [
+        21,
+        22,
+        26
+      ],
+      "member_shapes": [
+        10,
+        10,
+        13
+      ],
+      "centroid_avg": [
+        5455.25,
+        35268.833333333336
+      ],
+      "group_type_id": 2
+    },
+    {
+      "page": 1,
+      "members": [
+        23,
+        24,
+        25
+      ],
+      "member_shapes": [
+        11,
+        11,
+        12
+      ],
+      "centroid_avg": [
+        6035.75,
+        35268.833333333336
+      ],
+      "group_type_id": 3
+    },
+    {
+      "page": 1,
+      "members": [
+        27,
+        28,
+        29
+      ],
+      "member_shapes": [
+        14,
+        15,
+        15
+      ],
+      "centroid_avg": [
+        4903.822785,
+        35275.833333333336
+      ],
+      "group_type_id": 4
+    },
+    {
+      "page": 1,
+      "members": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "member_shapes": [
+        10,
+        10,
+        11,
+        11
+      ],
+      "centroid_avg": [
+        5494.5,
+        38341.0
+      ],
+      "group_type_id": 5
+    },
+    {
+      "page": 1,
+      "members": [
+        40,
+        42
+      ],
+      "member_shapes": [
+        14,
+        15
+      ],
+      "centroid_avg": [
+        4352.09903,
+        38293.0
+      ],
+      "group_type_id": 6
+    },
+    {
+      "page": 1,
+      "members": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "member_shapes": [
+        10,
+        10,
+        11,
+        11
+      ],
+      "centroid_avg": [
+        5494.5,
+        40141.0
+      ],
+      "group_type_id": 5
+    },
+    {
+      "page": 1,
+      "members": [
+        49,
+        51
+      ],
+      "member_shapes": [
+        14,
+        15
+      ],
+      "centroid_avg": [
+        4352.09903,
+        40093.0
+      ],
+      "group_type_id": 6
+    },
+    {
+      "page": 1,
+      "members": [
+        59,
+        60,
+        61,
+        64,
+        62,
+        63
+      ],
+      "member_shapes": [
+        11,
+        11,
+        10,
+        12,
+        10,
+        13
+      ],
+      "centroid_avg": [
+        18159.0,
+        40759.833333333336
+      ],
+      "group_type_id": 7
+    },
+    {
+      "page": 1,
+      "members": [
+        65,
+        66,
+        67
+      ],
+      "member_shapes": [
+        14,
+        15,
+        15
+      ],
+      "centroid_avg": [
+        17701.822784999997,
+        40759.833333333336
+      ],
+      "group_type_id": 4
+    },
+    {
+      "page": 1,
+      "members": [
+        68,
+        69,
+        70,
+        73,
+        71,
+        72
+      ],
+      "member_shapes": [
+        11,
+        11,
+        10,
+        12,
+        10,
+        13
+      ],
+      "centroid_avg": [
+        18159.0,
+        39559.833333333336
+      ],
+      "group_type_id": 7
+    },
+    {
+      "page": 1,
+      "members": [
+        74,
+        75,
+        76
+      ],
+      "member_shapes": [
+        14,
+        15,
+        15
+      ],
+      "centroid_avg": [
+        17701.822784999997,
+        39559.833333333336
+      ],
+      "group_type_id": 4
+    },
+    {
+      "page": 1,
+      "members": [
+        101,
+        102
+      ],
+      "member_shapes": [
+        28,
+        29
+      ],
+      "centroid_avg": [
+        20212.5,
+        19660.5
+      ],
+      "group_type_id": 8
+    },
+    {
+      "page": 1,
+      "members": [
+        103,
+        104
+      ],
+      "member_shapes": [
+        28,
+        29
+      ],
+      "centroid_avg": [
+        6812.5,
+        19660.5
+      ],
+      "group_type_id": 8
+    },
+    {
+      "page": 1,
+      "members": [
+        105,
+        106,
+        109,
+        110
+      ],
+      "member_shapes": [
+        28,
+        29,
+        28,
+        29
+      ],
+      "centroid_avg": [
+        13512.0,
+        16335.5
+      ],
+      "group_type_id": 9
+    },
+    {
+      "page": 1,
+      "members": [
+        107,
+        108,
+        111,
+        112
+      ],
+      "member_shapes": [
+        28,
+        29,
+        28,
+        29
+      ],
+      "centroid_avg": [
+        13512.0,
+        16935.5
+      ],
+      "group_type_id": 9
+    },
+    {
+      "page": 1,
+      "members": [
+        113,
+        114,
+        117,
+        118
+      ],
+      "member_shapes": [
+        28,
+        29,
+        28,
+        29
+      ],
+      "centroid_avg": [
+        13512.0,
+        9335.5
+      ],
+      "group_type_id": 9
+    },
+    {
+      "page": 1,
+      "members": [
+        115,
+        116,
+        119,
+        120
+      ],
+      "member_shapes": [
+        28,
+        29,
+        28,
+        29
+      ],
+      "centroid_avg": [
+        13512.0,
+        9935.5
+      ],
+      "group_type_id": 9
+    }
+  ]
+}

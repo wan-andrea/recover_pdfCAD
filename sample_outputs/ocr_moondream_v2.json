@@ -1,0 +1,3552 @@
+{
+  "metadata": {
+    "source_file": "example2.pdf",
+    "total_instances": 128,
+    "unique_shapes": 31
+  },
+  "shape_definitions": {
+    "1": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.5414516129032262
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "2": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.32080645161290305
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "3": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.15532258064516122
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "4": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.48629032258064475,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "5": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.7620967741935477,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "6": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.4311290322580646,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "7": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.48629032258064514
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "8": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.10016129032258068,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "9": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.15532258064516122,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "10": {
+      "semantic_label": "Graphic Block",
+      "count": 10,
+      "color_rgb": [
+        0.04500000000000004,
+        0.32080645161290305,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "11": {
+      "semantic_label": "Graphic Block",
+      "count": 10,
+      "color_rgb": [
+        0.2656451612903224,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "12": {
+      "semantic_label": "Graphic Block",
+      "count": 5,
+      "color_rgb": [
+        0.5966129032258066,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "13": {
+      "semantic_label": "Graphic Block",
+      "count": 5,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "14": {
+      "semantic_label": "Graphic Block",
+      "count": 5,
+      "color_rgb": [
+        0.9,
+        0.3759677419354839,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "15": {
+      "semantic_label": "Graphic Block",
+      "count": 10,
+      "color_rgb": [
+        0.4311290322580642,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "16": {
+      "semantic_label": "Graphic Block",
+      "count": 3,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.651774193548387
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "17": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.8724193548387097
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "18": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.21048387096774185
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "19": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.7069354838709679
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "20": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.5414516129032257,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "21": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.7069354838709677,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "22": {
+      "semantic_label": "Annotation Marker",
+      "count": 6,
+      "color_rgb": [
+        0.2656451612903224,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": true
+    },
+    "23": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.8724193548387097,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "24": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.8172580645161291
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "25": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.7620967741935485,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "26": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.10016129032258068,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "27": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.8172580645161291,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "28": {
+      "semantic_label": "Graphic Block",
+      "count": 10,
+      "color_rgb": [
+        0.5966129032258061,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "29": {
+      "semantic_label": "Graphic Block",
+      "count": 11,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.3759677419354844
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "30": {
+      "semantic_label": "Annotation Marker",
+      "count": 3,
+      "color_rgb": [
+        0.9,
+        0.21048387096774204,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": true
+    },
+    "31": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.04500000000000004,
+        0.6517741935483874,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    }
+  },
+  "instances": [
+    {
+      "instance_id": 1,
+      "page": 1,
+      "shape_id": 1,
+      "bbox_local": [
+        0.0,
+        0.0,
+        46.5,
+        46.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24393.5,
+        35703.5
+      ],
+      "snippet_raw": "46.5 0 m\n46.5 25.68124 25.68124 46.5 0 46.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object, possibly a piece of art or a sculpture. The object is black and white in color, with the focus on its shape and structure. It appears to be a small, intricate design that captures attention due to its unique form.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 2,
+      "page": 1,
+      "shape_id": 2,
+      "bbox_local": [
+        -74.5,
+        -75.5,
+        0.0,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24515.5,
+        36434.5
+      ],
+      "snippet_raw": "-74.5 0 m\n-74.5 -41.6975 -41.14521 -75.5 0 -75.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an upside-down sign, which appears to be a black and white design. The sign is positioned on the right side of the frame, with its edges clearly visible against the background. It seems that someone has turned the sign upside down, creating an interesting visual effect.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 3,
+      "page": 1,
+      "shape_id": 1,
+      "bbox_local": [
+        0.0,
+        0.0,
+        46.5,
+        46.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25246.5,
+        36556.5
+      ],
+      "snippet_raw": "46.5 0 m\n46.5 25.68124 25.68124 46.5 0 46.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an object, possibly a musical instrument or a tool. The object is positioned in the center of the frame with its handle facing towards the right side. It appears to be a simple design without any additional details or markings on it.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 4,
+      "page": 1,
+      "shape_id": 3,
+      "bbox_local": [
+        -142.12634,
+        -60.52289,
+        -123.46348,
+        51.74083
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25605.5,
+        39437.5
+      ],
+      "snippet_raw": "-127.39363 51.74083 m\n-142.12634 15.46668 -140.69681 -25.36782 -123.46348 -60.52289 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a door with vertical bars. The door is positioned in the center, surrounded by vertical lines that extend outwards from it. A small circle can be seen on one side of the door, adding an interesting detail to the overall design.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 5,
+      "page": 1,
+      "shape_id": 4,
+      "bbox_local": [
+        104.33041,
+        -56.19088,
+        123.2232,
+        56.19088
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25601.5,
+        39287.5
+      ],
+      "snippet_raw": "104.33041 -56.19088 m\n123.2232 -21.11238 123.2232 21.11238 104.33041 56.19088 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram of an object, possibly a clock or a machine. The main focus is on the center of the object, which has a small circle in the middle surrounded by lines. This design suggests that it could be a mechanical device with multiple components working together to perform a specific function.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 6,
+      "page": 1,
+      "shape_id": 5,
+      "bbox_local": [
+        -28.5,
+        -28.5,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25601.5,
+        39425.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c\n-15.74012 28.5 -28.5 15.74012 -28.5 0 c\n-28.5 -15.74012 -15.74012 -28.5 0 -28.5 c\n15.74012 -28.5 28.5 -15.74012 28.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a shirt with vertical stripes. The shirt is designed in the style of a guitar, as indicated by its design elements such as the two circles on the front that resemble guitar strings or frets. These circles are positioned at different heights to create the appearance of a guitar-like pattern across the front of the shirt.\n\nThe shirt itself has vertical stripes running down the middle, giving it a unique and stylish look. The overall design is simple yet eye-catching, showcasing the artist's attention to detail in their work.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 7,
+      "page": 1,
+      "shape_id": 5,
+      "bbox_local": [
+        -28.5,
+        -28.5,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25601.5,
+        39312.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c\n-15.74012 28.5 -28.5 15.74012 -28.5 0 c\n-28.5 -15.74012 -15.74012 -28.5 0 -28.5 c\n15.74012 -28.5 28.5 -15.74012 28.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram of an object, possibly a musical instrument or a mechanical device. The object is composed of multiple lines that create the shape of the item. There are two holes in the middle of these lines, which could be buttons or switches for controlling the object's functions.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 8,
+      "page": 1,
+      "shape_id": 3,
+      "bbox_local": [
+        -142.12634,
+        -60.52289,
+        -123.46348,
+        51.74083
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24960.5,
+        36358.5
+      ],
+      "snippet_raw": "-127.39363 51.74083 m\n-142.12634 15.46668 -140.69681 -25.36782 -123.46348 -60.52289 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an arrow pointing to the left. The arrow is positioned at the top center of the frame, drawing attention to its direction. In addition to the arrow, there are two circles in the scene - one located near the bottom right corner and another closer to the middle-left area. These elements contribute to the overall composition of the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 9,
+      "page": 1,
+      "shape_id": 4,
+      "bbox_local": [
+        104.33041,
+        -56.19088,
+        123.2232,
+        56.19088
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24955.5,
+        36208.5
+      ],
+      "snippet_raw": "104.33041 -56.19088 m\n123.2232 -21.11238 123.2232 21.11238 104.33041 56.19088 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram of an object, possibly a piece of machinery or a component. The object is outlined in black against the white background, making it stand out clearly. It appears to be a simple design with no additional details or labels.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 10,
+      "page": 1,
+      "shape_id": 5,
+      "bbox_local": [
+        -28.5,
+        -28.5,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24955.5,
+        36345.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c\n-15.74012 28.5 -28.5 15.74012 -28.5 0 c\n-28.5 -15.74012 -15.74012 -28.5 0 -28.5 c\n15.74012 -28.5 28.5 -15.74012 28.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a shirt. The shirt is designed with vertical stripes, giving it an interesting visual effect. There are two circles on the front of the shirt, which appear to be buttons or closures. These circles are positioned at different heights along the shirt's sleeves, adding depth and dimension to the design.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 11,
+      "page": 1,
+      "shape_id": 5,
+      "bbox_local": [
+        -28.5,
+        -28.5,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24955.5,
+        36233.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c\n-15.74012 28.5 -28.5 15.74012 -28.5 0 c\n-28.5 -15.74012 -15.74012 -28.5 0 -28.5 c\n15.74012 -28.5 28.5 -15.74012 28.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram of an object, possibly a musical instrument or a piece of machinery. The object is outlined in black against the white background, making it stand out clearly. It appears to be a simple design with no additional details or markings on its surface.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 12,
+      "page": 1,
+      "shape_id": 1,
+      "bbox_local": [
+        0.0,
+        0.0,
+        46.5,
+        46.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25246.5,
+        36556.5
+      ],
+      "snippet_raw": "46.5 0 m\n46.5 25.68124 25.68124 46.5 0 46.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an object, possibly a musical instrument or a tool. The object is positioned in the center of the frame with its handle facing towards the right side. It appears to be a simple design without any additional details or markings on it.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 13,
+      "page": 1,
+      "shape_id": 1,
+      "bbox_local": [
+        0.0,
+        0.0,
+        46.5,
+        46.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24393.5,
+        35703.5
+      ],
+      "snippet_raw": "46.5 0 m\n46.5 25.68124 25.68124 46.5 0 46.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object, possibly a piece of art or a sculpture. The object is black and white in color, with the focus on its shape and structure. It appears to be a small, intricate design that captures attention due to its unique form.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 14,
+      "page": 1,
+      "shape_id": 6,
+      "bbox_local": [
+        91.71671,
+        -65.14826,
+        119.42776,
+        65.14826
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5409.5,
+        34490.5
+      ],
+      "snippet_raw": "91.71671 -65.14826 m\n119.42776 -26.13621 119.42776 26.13621 91.71671 65.14826 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object, possibly a nut or bolt. The object is black in color and appears to be made of metal. It has a hole on one side and a ring on the other side, which are typical characteristics for nuts and bolts. The background of the image is white, providing contrast that makes it easier to focus on the details of the object.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 15,
+      "page": 1,
+      "shape_id": 7,
+      "bbox_local": [
+        14.95941,
+        -32.19419,
+        35.5,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5312.5,
+        34413.5
+      ],
+      "snippet_raw": "14.95941 -32.19419 m\n27.48683 -26.37318 35.5 -13.81378 35.5 0 c\n35.5 13.81378 27.48683 26.37318 14.95941 32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of a brick wall. The bricks are arranged in a grid-like pattern, with three rows and four columns. Each row has two bricks, creating an orderly appearance. In addition to the bricks, there is also a small triangle located at the top left corner of the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 16,
+      "page": 1,
+      "shape_id": 7,
+      "bbox_local": [
+        14.95941,
+        -32.19419,
+        35.5,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5507.5,
+        34413.5
+      ],
+      "snippet_raw": "14.95941 -32.19419 m\n27.48683 -26.37318 35.5 -13.81378 35.5 0 c\n35.5 13.81378 27.48683 26.37318 14.95941 32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with various shapes and lines, including squares, rectangles, triangles, and diamonds. The shapes are arranged in different positions, creating an abstract composition that is visually interesting. Some of the shapes appear to be overlapping or positioned next to each other, while others seem to be floating in space.\n\nThere are no texts or specific actions taking place within this image. It seems to be a simple arrangement of shapes and lines on a white background without any discernible narrative or context.",
+      "ocr_has_text": false
+    },
+    {
+      "instance_id": 17,
+      "page": 1,
+      "shape_id": 2,
+      "bbox_local": [
+        -74.5,
+        -75.5,
+        0.0,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4969.5,
+        35678.5
+      ],
+      "snippet_raw": "-74.5 0 m\n-74.5 -41.6975 -41.14521 -75.5 0 -75.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of the corner of an object, possibly a television screen or a piece of paper. The corner is black and white in color, giving it a distinct appearance. It appears to be a flat surface with no curves or bends, making it easy to identify as part of a corner.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 18,
+      "page": 1,
+      "shape_id": 8,
+      "bbox_local": [
+        0.0,
+        0.0,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5719.5,
+        35782.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of a gun. The gun is positioned horizontally, with its handle pointing towards the top left corner of the image. It appears to be a simple design without any additional details or markings on it.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 19,
+      "page": 1,
+      "shape_id": 8,
+      "bbox_local": [
+        0.0,
+        0.0,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4866.5,
+        34928.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an object, which appears to be a pole or a stick. The drawing is simple yet detailed, with the main focus being on the shape and structure of the object. There are no texts or other objects in the image, making it a minimalistic representation of its subject matter.",
+      "ocr_has_text": false
+    },
+    {
+      "instance_id": 20,
+      "page": 1,
+      "shape_id": 9,
+      "bbox_local": [
+        -112.5,
+        -112.5,
+        112.5,
+        112.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5269.5,
+        39766.5
+      ],
+      "snippet_raw": "112.5 0 m\n112.5 62.13204 62.13204 112.5 0 112.5 c\n-62.13204 112.5 -112.5 62.13204 -112.5 0 c\n-112.5 -62.13204 -62.13204 -112.5 0 -112.5 c\n62.13204 -112.5 112.5 -62.13204 112.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with a black hexagon symbol in the center. The hexagon is outlined by two vertical lines, creating a geometric shape that stands out against the plain backdrop.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 21,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5464.5,
+        35163.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of an abstract scene. The main subject is a person standing in the center, surrounded by various objects such as a clock on the left side and a chair on the right side. There are also two other people present in the background, one to the far left and another to the far right. Additionally, there's a bird flying above the scene, adding an element of movement to the composition.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 22,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5464.5,
+        35374.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white scene with several pieces of luggage. There are three suitcases in the picture, each varying in size and shape. One is larger and positioned on the left side of the frame, while two smaller ones can be seen closer to the center and right side of the image. The suitcases appear to be stacked or placed next to one another, creating a sense of depth and dimension within the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 23,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6026.5,
+        35163.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an electric pole with three vertical lines running down its center. The lines are black and appear to be slightly curved, giving the impression that they might be in motion or have been recently hit by something. The pole is positioned against a white background, which contrasts sharply with the dark lines on it.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 24,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6026.5,
+        35374.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and shapes. There are three vertical lines, two horizontal lines, and one curved line that creates an abstract design on the wall. The combination of these elements gives the impression of a unique and artistic composition.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 25,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6026.5,
+        35268.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white square with black lines running down the center, creating an abstract design. The lines are arranged in two vertical columns and appear to be slightly tilted or slanted. This unique arrangement of lines gives the impression that they are floating or moving across the frame.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 26,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5464.5,
+        35268.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of an interesting scene. The main focus is on two suitcases, one positioned in the foreground and another further back in the background. These suitcases are placed next to each other, creating a sense of depth within the frame. Additionally, there's a person visible in the top right corner of the image, adding more context to the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 27,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5006.5,
+        35275.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of two black bolts, one on each side of the frame. The bolts are positioned at different angles and heights, creating an interesting visual effect. They appear to be part of a larger structure or object that is not clearly visible in the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 28,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4930.5,
+        35373.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of an abstract scene. The main focus is on two vertical lines, one located in the center of the frame and another extending from the top left corner to the bottom right corner. These lines create a sense of depth and perspective within the composition. Additionally, there are three horizontal lines situated at the bottom left, middle, and bottom right corners of the image. The overall arrangement of these lines creates an interesting visual effect that adds complexity to the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 29,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4930.5,
+        35178.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an abstract art piece, which appears to be a painting or drawing. The artwork is predominantly black and white in color, with the exception of one object that stands out - a small white square located at the bottom right corner of the frame. This unique detail draws attention to itself amidst the monochromatic background.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 30,
+      "page": 1,
+      "shape_id": 9,
+      "bbox_local": [
+        -112.5,
+        -112.5,
+        112.5,
+        112.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5269.5,
+        37966.5
+      ],
+      "snippet_raw": "112.5 0 m\n112.5 62.13204 62.13204 112.5 0 112.5 c\n-62.13204 112.5 -112.5 62.13204 -112.5 0 c\n-112.5 -62.13204 -62.13204 -112.5 0 -112.5 c\n62.13204 -112.5 112.5 -62.13204 112.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram of an amino acid structure. The amino acid is depicted as a hexagon, which is the central focus of the image. Surrounding this central figure are various lines that extend outwards from it, creating a sense of depth and complexity to the design. This intricate arrangement of lines and shapes showcases the detailed nature of the amino acid's structure.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 31,
+      "page": 1,
+      "shape_id": 16,
+      "bbox_local": [
+        -61.85635,
+        -62.3388,
+        34.81181,
+        62.99935
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5586.5,
+        37966.5
+      ],
+      "snippet_raw": "31.77599 46.71762 m\n7.83831 62.99935 -24.53311 58.55325 -43.19473 36.42067 c\n-61.85635 14.28809 -60.7695 -18.36914 -40.67764 -39.21199 c\n-20.58577 -60.05483 12.00962 -62.3388 34.81181 -44.50155 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object, possibly a key or a lock. The object is black and white in color, with the letters \"E\" and \"H\" prominently displayed on it. These letters are positioned at the center of the frame, drawing attention to their presence.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 32,
+      "page": 1,
+      "shape_id": 16,
+      "bbox_local": [
+        -61.85635,
+        -62.3388,
+        34.81181,
+        62.99935
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5302.5,
+        41007.5
+      ],
+      "snippet_raw": "31.77599 46.71762 m\n7.83831 62.99935 -24.53311 58.55325 -43.19473 36.42067 c\n-61.85635 14.28809 -60.7695 -18.36914 -40.67764 -39.21199 c\n-20.58577 -60.05483 12.00962 -62.3388 34.81181 -44.50155 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and symbols. The most prominent symbol is an upside-down \"O\" shape, which appears to be the main focus of the image. Surrounding this central symbol are several other symbols or lines that contribute to the overall composition.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 33,
+      "page": 1,
+      "shape_id": 16,
+      "bbox_local": [
+        -61.85635,
+        -62.3388,
+        34.81181,
+        62.99935
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5586.5,
+        39766.5
+      ],
+      "snippet_raw": "31.77599 46.71762 m\n7.83831 62.99935 -24.53311 58.55325 -43.19473 36.42067 c\n-61.85635 14.28809 -60.7695 -18.36914 -40.67764 -39.21199 c\n-20.58577 -60.05483 12.00962 -62.3388 34.81181 -44.50155 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object, possibly a key or a lock. The object is black and white in color, with the letters \"E\" and \"H\" prominently displayed on it. These letters are positioned at different angles within the frame, creating a sense of depth and perspective to the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 34,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        38235.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a tall, thin pole with four horizontal bars. The pole is positioned in the center of the frame, creating a striking contrast against the background. The bars are evenly spaced along the length of the pole, giving it an interesting visual effect.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 35,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        38446.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white piece of paper with black lines on it. The lines are arranged in two rows, creating an interesting visual effect that makes the paper appear as if it's floating or suspended in mid-air. This artistic arrangement adds a unique and captivating touch to the otherwise ordinary sheet of paper.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 36,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        38235.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in two rows, creating an interesting visual effect that makes the viewer question whether they should be looking at the lines or the bars themselves. The arrangement of the lines and bars gives the impression of a window or a door, adding depth to the composition.\n\nThe image is not labeled with any specific information about its content or purpose.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 37,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        38446.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in two rows, creating an interesting visual effect that resembles a grid or a pattern. The arrangement of the lines is not perfectly straight but rather has some curvature to it, adding depth and complexity to the overall design.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 38,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        38341.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in two rows, creating an abstract pattern that appears to be a grid-like structure. The arrangement of the lines and bars gives off a sense of orderliness or organization, but it is also visually striking due to its stark contrast against the white background.\n\nThe image does not contain any discernible text or additional objects, making it difficult to determine what specific context this pattern might be used in.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 39,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        38341.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object with three vertical lines, each connected to the other by horizontal lines. The object appears to be made out of metal and is positioned in front of a white background. It seems like a piece of artwork or a decorative item that catches the viewer's attention due to its unique design.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 40,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4455.5,
+        38341.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object, possibly a nut or bolt. The object is black in color and appears to be made of metal. It has a curved shape with a small hole on one side, which could indicate that it's used for securing two pieces together. The background of the image is white, making the black object stand out prominently.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 41,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4379.5,
+        38438.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white piece of paper with black text on it. The text appears to be in a foreign language, but the specific words cannot be determined from the image alone.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 42,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4379.5,
+        38244.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and shapes. There are two distinct objects in the scene, one being a chair positioned to the left of the frame and another smaller object located towards the right side of the image. The chair appears to be made out of wood, while the other object is not clearly defined due to its small size.\n\nThe arrangement of these objects creates an interesting composition that draws attention to their shapes and forms against a plain white background.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 43,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        40035.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a tall, thin pole with four horizontal bars. The pole is positioned in the center of the frame, creating a striking contrast against the background. The bars are evenly spaced along the length of the pole, giving it an interesting visual effect.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 44,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        40246.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white piece of paper with black lines on it. The lines are arranged in two rows, creating an interesting visual effect. The paper is placed against a gray background, which further emphasizes the contrast between the white paper and the black lines.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 45,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        40035.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in two rows, creating an interesting visual effect that makes the viewer question whether they should be looking at the lines or the bars themselves. The arrangement of the lines and bars gives the impression of a window or a door, adding depth to the composition.\n\nThe image is not labeled with any specific information about its content or purpose.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 46,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        40246.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in two rows, creating an interesting visual effect that resembles a grid or a pattern. The arrangement of the lines is not perfectly straight but rather has some curvature to it, adding depth and complexity to the overall design.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 47,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        40141.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in two rows, creating an abstract pattern that appears to be a grid-like structure. The arrangement of the lines and bars gives off a sense of orderliness or organization, but it is also visually striking due to its stark contrast against the white background.\n\nThe image does not contain any discernible text or additional objects, making it difficult to determine what specific context this pattern might be used in.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 48,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        40141.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in two rows, creating a grid-like pattern on the wall. There is no text or additional objects present in the scene.",
+      "ocr_has_text": false
+    },
+    {
+      "instance_id": 49,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4455.5,
+        40141.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object, possibly a nut or bolt. The object is black in color and has a curved shape with a small hole on one side. It appears to be made from metal, as it is described as being \"very shiny\" and \"very nice looking.\"",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 50,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4379.5,
+        40238.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white piece of paper with black text on it. The text appears to be in a foreign language, but the specific words cannot be determined from the image alone.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 51,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4379.5,
+        40044.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with two black lines on it. One of the lines is positioned vertically, while the other is horizontally placed at an angle to the vertical line. The arrangement of these lines creates a sense of depth and perspective in the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 52,
+      "page": 1,
+      "shape_id": 17,
+      "bbox_local": [
+        -84.5,
+        -84.5,
+        84.5,
+        84.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20108.5,
+        38134.5
+      ],
+      "snippet_raw": "84.5 0 m\n84.5 46.66806 46.66806 84.5 0 84.5 c\n-46.66806 84.5 -84.5 46.66806 -84.5 0 c\n-84.5 -46.66806 -46.66806 -84.5 0 -84.5 c\n46.66806 -84.5 84.5 -46.66806 84.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with a circle in the center, surrounded by four lines. The first line is horizontal, while the other three are vertical. An arrow pointing to the right is located at the top of the diagram, indicating a direction or movement.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 53,
+      "page": 1,
+      "shape_id": 17,
+      "bbox_local": [
+        -84.5,
+        -84.5,
+        84.5,
+        84.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20108.5,
+        36934.5
+      ],
+      "snippet_raw": "84.5 0 m\n84.5 46.66806 46.66806 84.5 0 84.5 c\n-46.66806 84.5 -84.5 46.66806 -84.5 0 c\n-84.5 -46.66806 -46.66806 -84.5 0 -84.5 c\n46.66806 -84.5 84.5 -46.66806 84.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with an arrow pointing to the right. The arrow is positioned at the center of the image, drawing attention to its direction. Surrounding this central point are four lines that extend outwards in various directions, creating a sense of depth and complexity within the design.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 54,
+      "page": 1,
+      "shape_id": 18,
+      "bbox_local": [
+        0.0,
+        0.0,
+        23.5,
+        23.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17480.5,
+        34573.5
+      ],
+      "snippet_raw": "23.5 0 m\n23.5 12.97869 12.97869 23.5 0 23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an object, possibly a lamp post or street light. The object is depicted in a vertical orientation with two poles extending from it. The pole on the left side appears to be taller than the one on the right side. The entire scene is set against a stark white background, which emphasizes the contrast between the black and white elements of the illustration.\n\nThere are no other objects or people visible in the image, making the focus solely on the object itself.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 55,
+      "page": 1,
+      "shape_id": 18,
+      "bbox_local": [
+        0.0,
+        0.0,
+        23.5,
+        23.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18333.5,
+        35426.5
+      ],
+      "snippet_raw": "23.5 0 m\n23.5 12.97869 12.97869 23.5 0 23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an object, which appears to be a house. The drawing is quite detailed with multiple lines and shading techniques used by the artist to create depth and texture. The house seems to have a flat roof, giving it a modern and minimalist look.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 56,
+      "page": 1,
+      "shape_id": 19,
+      "bbox_local": [
+        -23.5,
+        -23.5,
+        0.0,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17526.5,
+        35379.5
+      ],
+      "snippet_raw": "-23.5 0 m\n-23.5 -12.97869 -12.97869 -23.5 0 -23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photo of an oval-shaped frame. The frame is positioned at the corner of two walls, with one wall being slightly higher than the other. The frame appears to be made from metal or plastic material, giving it a modern and sleek appearance.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 57,
+      "page": 1,
+      "shape_id": 20,
+      "bbox_local": [
+        -35.5,
+        -32.19419,
+        -14.95941,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18116.5,
+        35627.5
+      ],
+      "snippet_raw": "-14.95941 32.19419 m\n-27.48683 26.37318 -35.5 13.81378 -35.5 0 c\n-35.5 -13.81378 -27.48683 -26.37318 -14.95941 -32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white scene with an interesting composition. There is a chair positioned in the foreground, while another chair can be seen further back in the room. The chairs are placed next to each other, creating a sense of depth within the space. Additionally, there is a bench located near the center-right part of the image, adding more interest to the scene.\n\nThe overall atmosphere appears to be artistic and thought-provoking, with the black and white color scheme emphasizing contrast and form.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 58,
+      "page": 1,
+      "shape_id": 20,
+      "bbox_local": [
+        -35.5,
+        -32.19419,
+        -14.95941,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17921.5,
+        35627.5
+      ],
+      "snippet_raw": "-14.95941 32.19419 m\n-27.48683 26.37318 -35.5 13.81378 -35.5 0 c\n-35.5 -13.81378 -27.48683 -26.37318 -14.95941 -32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of an outdoor scene. There are three benches in the picture, with one located on the left side and two others positioned closer to the center. The benches appear to be made of metal or iron, giving them a distinct appearance. Additionally, there is a chair situated near the middle of the image, adding more seating options for people enjoying the outdoor space.\n\nThe scene also includes a window in the background, which could potentially provide natural light and enhance the overall atmosphere of the area.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 59,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        40865.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in two rows, creating an interesting visual effect. There is no discernible text or additional objects present in the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 60,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        40654.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white piece of paper with black lines on it. The lines are arranged in two rows, creating a vertical and horizontal pattern across the page. This design is reminiscent of a musical staff or sheet music, which is commonly used by musicians to read and play songs.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 61,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        40865.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of an interesting scene. There is a tall, thin metal pole in the center of the frame, with two vertical bars on either side extending outwards. The background appears to be a wall or a fence, providing context for the setting. The photo itself has a slightly blurry quality, giving it a vintage feel.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 62,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        40654.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an interesting black and white photograph. The main subject is a set of vertical lines, which appear to be part of a musical instrument or a decorative element in the room. These lines are positioned at various angles, creating a sense of depth and dimension within the frame. The overall composition of the image showcases the artistic use of lines and shadows to create an intriguing visual experience.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 63,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        40759.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an abstract design, likely created using a computer program. The design consists of two vertical lines intersecting at the center, with a horizontal line running down the middle. There are also three horizontal lines in total, positioned at various points along the design. The entire composition is set against a white background, which highlights the black elements and makes them stand out prominently.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 64,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        40759.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with a black and white line drawing of an object, which appears to be a box or a container. The object is positioned in the center of the frame, making it the focal point of the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 65,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17804.5,
+        40759.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a handrail. The handrail is positioned on the side of a wall, with its top part facing upwards. It appears to be made from metal or another sturdy material, as it is attached to the wall by screws. The handrail's design suggests that it could serve as support for someone who needs assistance while climbing stairs or navigating uneven terrain.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 66,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17728.5,
+        40857.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black metal railing with white lines on it. The railing is positioned in front of a wall, and the entire scene appears to be in black and white. There are no other objects or people visible in the image, making it an interesting composition that focuses solely on the railing and its surroundings.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 67,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17728.5,
+        40662.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of an indoor scene. The main focus is on the corner of a wall, which has a metal railing attached to it. This railing can be seen as a safety measure or decorative element in the room. There are no people visible in the photo, but the presence of the railing suggests that this area might have some level of protection or separation from other parts of the space.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 68,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        39665.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and bars. The lines are arranged in a vertical line, while the bars are placed horizontally across the scene. There is no discernible text or additional objects present in the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 69,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        39454.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white sheet of paper with black text on it. The text is written in an artistic and stylized font, giving the page a unique appearance. The paper appears to be folded or crumpled at one end, adding a sense of depth and dimension to the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 70,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        39665.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of a window with vertical bars. The bars are positioned at different angles, creating an interesting visual effect that adds depth to the scene. The photo is taken from a low angle, which emphasizes the height of the bars and gives them a more imposing appearance.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 71,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        39454.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of an abstract design. The main elements in the photo include a large arrow pointing to the right, which is positioned at the bottom center of the frame. Surrounding this central element are several vertical lines that extend from the top left corner towards the bottom edge of the image.\n\nIn addition to these lines, there are two horizontal lines extending from the top right corner towards the bottom edge of the photo. The combination of these lines and the arrow creates a sense of movement and direction in the abstract design.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 72,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        39559.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an object, possibly a musical instrument or a piece of art. The object is positioned in the center of the frame, drawing attention to its details. There are no texts present in the image, but it appears that there might be some sort of description or explanation related to the object's purpose or significance.",
+      "ocr_has_text": false
+    },
+    {
+      "instance_id": 73,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        39559.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with a black and white line drawing of an object, which appears to be a box or a container. The object is positioned in the center of the frame, making it the focal point of the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 74,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17804.5,
+        39559.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an object, possibly a piece of furniture or a toy. The object is positioned on the right side of the frame with its handle facing towards the left side. There are no other objects in the scene, making it a simple and minimalistic representation.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 75,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17728.5,
+        39462.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an arrow pointing to the left. The arrow is positioned in front of a metal railing, which appears to be part of a structure or enclosure. The railing has two sides, with one side being larger than the other. This design suggests that it could serve as a protective barrier for people entering or exiting the area.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 76,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17728.5,
+        39657.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white photograph of an object, possibly a piece of furniture or a sculpture. The object is positioned in the center of the frame, with its edges extending towards the top left corner and bottom right corner of the photo. It appears to be a simple design that captures the viewer's attention.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 77,
+      "page": 1,
+      "shape_id": 21,
+      "bbox_local": [
+        -93.5,
+        -93.5,
+        93.5,
+        93.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11767.5,
+        37971.5
+      ],
+      "snippet_raw": "93.5 0 m\n93.5 51.63863 51.63863 93.5 0 93.5 c\n-51.63863 93.5 -93.5 51.63863 -93.5 0 c\n-93.5 -51.63863 -51.63863 -93.5 0 -93.5 c\n51.63863 -93.5 93.5 -51.63863 93.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with an arrow pointing to the left. The arrow is positioned at the top of the image, indicating its direction. Below the arrow, there are two lines that cross each other in the middle part of the image. These lines create a sense of movement or transition within the diagram.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 78,
+      "page": 1,
+      "shape_id": 21,
+      "bbox_local": [
+        -93.5,
+        -93.5,
+        93.5,
+        93.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11767.5,
+        39771.5
+      ],
+      "snippet_raw": "93.5 0 m\n93.5 51.63863 51.63863 93.5 0 93.5 c\n-51.63863 93.5 -93.5 51.63863 -93.5 0 c\n-93.5 -51.63863 -51.63863 -93.5 0 -93.5 c\n51.63863 -93.5 93.5 -51.63863 93.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white circuit diagram with various components. There is an arrow pointing to the left, which could be representing the direction of current flow in a circuit. The components include a switch, a battery, and a light bulb, all depicted as symbols within the circuit diagram.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 79,
+      "page": 1,
+      "shape_id": 18,
+      "bbox_local": [
+        0.0,
+        0.0,
+        23.5,
+        23.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11228.5,
+        35336.5
+      ],
+      "snippet_raw": "23.5 0 m\n23.5 12.97869 12.97869 23.5 0 23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of an object, possibly a pipe or a pole. The object is black and appears to be made of metal. It has a triangular shape with one end being curved while the other ends are straight. The object is positioned in front of a white background, which makes it stand out prominently against the backdrop.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 80,
+      "page": 1,
+      "shape_id": 18,
+      "bbox_local": [
+        0.0,
+        0.0,
+        23.5,
+        23.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        12081.5,
+        36189.5
+      ],
+      "snippet_raw": "23.5 0 m\n23.5 12.97869 12.97869 23.5 0 23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an arrow pointing to the left. The arrow is positioned at the top center of the frame, with its tip directed towards the bottom right corner. This simple yet striking design captures attention and effectively communicates the intended direction or movement.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 81,
+      "page": 1,
+      "shape_id": 19,
+      "bbox_local": [
+        -23.5,
+        -23.5,
+        0.0,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11275.5,
+        36142.5
+      ],
+      "snippet_raw": "-23.5 0 m\n-23.5 -12.97869 -12.97869 -23.5 0 -23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a close-up view of the corner of an object, possibly a wall or a piece of furniture. The corner is black and white in color, giving it a distinct appearance. There are no other objects or people visible in the image, making it a simple and focused scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 82,
+      "page": 1,
+      "shape_id": 6,
+      "bbox_local": [
+        91.71671,
+        -65.14826,
+        119.42776,
+        65.14826
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11767.5,
+        34901.5
+      ],
+      "snippet_raw": "91.71671 -65.14826 m\n119.42776 -26.13621 119.42776 26.13621 91.71671 65.14826 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram of a golf club. The diagram is drawn in a simple line style, with the club's head positioned at the top left corner and its body extending downwards towards the bottom right corner. The club has four distinct parts, each represented by a small circle or oval shape. These shapes are arranged in a vertical line from the top to the bottom of the diagram, creating a clear visual representation of the golf club's structure.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 83,
+      "page": 1,
+      "shape_id": 7,
+      "bbox_local": [
+        14.95941,
+        -32.19419,
+        35.5,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11670.5,
+        34825.5
+      ],
+      "snippet_raw": "14.95941 -32.19419 m\n27.48683 -26.37318 35.5 -13.81378 35.5 0 c\n35.5 13.81378 27.48683 26.37318 14.95941 32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a Frisbee. The Frisbee is depicted in three different positions, with one being upside down and the other two positioned horizontally across the frame. This composition creates an interesting visual effect that captures the essence of a flying disc.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 84,
+      "page": 1,
+      "shape_id": 7,
+      "bbox_local": [
+        14.95941,
+        -32.19419,
+        35.5,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11864.5,
+        34825.5
+      ],
+      "snippet_raw": "14.95941 -32.19419 m\n27.48683 -26.37318 35.5 -13.81378 35.5 0 c\n35.5 13.81378 27.48683 26.37318 14.95941 32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a Frisbee. The Frisbee is depicted in three different positions, with one being upside down and the other two positioned horizontally. It appears to be suspended from a pole or rod, giving it an interesting visual effect.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 85,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        23650.5,
+        8360.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 23576 8419 Tm\n0 Tc\n100 Tz 0 Tr\n(3) Tj",
+      "marker_distance": 94.72,
+      "moondream_caption": "The image features a black and white circle with the letter \"w\" inside it. The circle is outlined in black, making it stand out against the white background. This design choice creates a striking contrast between the black outline of the circle and its white interior.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 86,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        23650.5,
+        16760.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 23574 16819 Tm\n0 Tc\n100 Tz 0 Tr\n(2) Tj",
+      "marker_distance": 96.3,
+      "moondream_caption": "The image features a white circle with the number \"2\" inside it. The circle is outlined in black, making it stand out against the white background. This design choice emphasizes the importance of the number \"2\" and its placement within the circle.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 87,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        23650.5,
+        19760.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 23574 19819 Tm\n0 Tc\n100 Tz 0 Tr\n(1) Tj",
+      "marker_distance": 96.3,
+      "moondream_caption": "The image features a black and white clock with an arrow pointing to the right. The clock is positioned in the center of the frame, drawing attention to its design elements. The arrow on the clock serves as a visual guide for timekeeping purposes, indicating that it's either past or approaching the current time.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 88,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20312.5,
+        23098.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white circle with an arrow pointing to the left. The arrow is positioned at the center of the circle, making it the focal point of the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 89,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13512.5,
+        23098.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with the word \"Over\" written in capital letters. The diagram is circular, and it contains two lines of text positioned at the center. One line reads \"Solar Over,\" while the other says \"Loan over.\"",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 90,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6712.5,
+        23098.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white circle with a black crescent moon inside of it. The crescent moon is positioned at the center of the circle, creating an interesting visual effect.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 91,
+      "page": 1,
+      "shape_id": 23,
+      "bbox_local": [
+        -161.41499,
+        18.74703,
+        161.41499,
+        162.5
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "161.41499 18.74703 m\n151.89801 100.6898 82.49358 162.5 0 162.5 c\n-82.49358 162.5 -151.89801 100.6898 -161.41499 18.74703 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white drawing of a clock with the hands pointing to 12. The clock is positioned in the center, surrounded by thin lines that create a grid-like pattern around it. This unique design choice adds an artistic touch to the otherwise simple depiction of timekeeping.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 92,
+      "page": 1,
+      "shape_id": 24,
+      "bbox_local": [
+        -161.41499,
+        -162.5,
+        161.41499,
+        -18.74703
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "-161.41499 -18.74703 m\n-151.89801 -100.6898 -82.49358 -162.5 0 -162.5 c\n82.49358 -162.5 151.89801 -100.6898 161.41499 -18.74703 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a clock with the hands pointing to 12. The clock is set against a gray background, making it stand out prominently in the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 93,
+      "page": 1,
+      "shape_id": 25,
+      "bbox_local": [
+        -149.31998,
+        -150.5,
+        149.31998,
+        -18.8094
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "-149.31998 -18.8094 m\n-139.84079 -94.06078 -75.84606 -150.5 0 -150.5 c\n75.84606 -150.5 139.84079 -94.06078 149.31998 -18.8094 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a clock with the hands pointing to 12. The clock is positioned in the center, surrounded by thin lines that create a sense of depth and perspective. The simplicity of the design allows for the focus on the clock's structure without any distractions from other elements within the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 94,
+      "page": 1,
+      "shape_id": 26,
+      "bbox_local": [
+        -149.31998,
+        18.8094,
+        149.31998,
+        150.5
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "149.31998 18.8094 m\n139.84079 94.06078 75.84606 150.5 0 150.5 c\n-75.84606 150.5 -139.84079 94.06078 -149.31998 18.8094 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white drawing of a circle with several lines drawn on it. The lines are positioned at various angles, creating an abstract representation of the circle. The drawing is placed in the center of the frame, making it the main focus of the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 95,
+      "page": 1,
+      "shape_id": 23,
+      "bbox_local": [
+        -161.41499,
+        18.74703,
+        161.41499,
+        162.5
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "161.41499 18.74703 m\n151.89801 100.6898 82.49358 162.5 0 162.5 c\n-82.49358 162.5 -151.89801 100.6898 -161.41499 18.74703 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a clock with black and white lines, giving it an artistic appearance. The clock is positioned in the center of the frame, drawing attention to its unique design. It appears that the clock has been drawn or sketched on paper, possibly as part of a creative project or for educational purposes.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 96,
+      "page": 1,
+      "shape_id": 24,
+      "bbox_local": [
+        -161.41499,
+        -162.5,
+        161.41499,
+        -18.74703
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "-161.41499 -18.74703 m\n-151.89801 -100.6898 -82.49358 -162.5 0 -162.5 c\n82.49358 -162.5 151.89801 -100.6898 161.41499 -18.74703 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of a clock with the hands pointing to 12. The clock is set against a gray background, making it stand out prominently in the scene.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 97,
+      "page": 1,
+      "shape_id": 25,
+      "bbox_local": [
+        -149.31998,
+        -150.5,
+        149.31998,
+        -18.8094
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "-149.31998 -18.8094 m\n-139.84079 -94.06078 -75.84606 -150.5 0 -150.5 c\n75.84606 -150.5 139.84079 -94.06078 149.31998 -18.8094 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a circle with a line cutting it in half, creating two distinct halves. The line is positioned at the center of the circle and extends from one side to the other. This unique design makes the circle stand out as an interesting piece of art or decoration.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 98,
+      "page": 1,
+      "shape_id": 26,
+      "bbox_local": [
+        -149.31998,
+        18.8094,
+        149.31998,
+        150.5
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "149.31998 18.8094 m\n139.84079 94.06078 75.84606 150.5 0 150.5 c\n-75.84606 150.5 -139.84079 94.06078 -149.31998 18.8094 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a clock with a black and white design. The clock is positioned in the center of the frame, surrounded by four vertical lines that extend outwards from it. These lines create an interesting visual effect as they appear to be coming out of the clock itself. The clock's face is clearly visible, allowing viewers to easily see the time displayed on its surface.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 99,
+      "page": 1,
+      "shape_id": 27,
+      "bbox_local": [
+        -162.5,
+        -162.5,
+        162.5,
+        162.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "162.5 0 m\n162.5 89.74628 89.74628 162.5 0 162.5 c\n-89.74628 162.5 -162.5 89.74628 -162.5 0 c\n-162.5 -89.74628 -89.74628 -162.5 0 -162.5 c\n89.74628 -162.5 162.5 -89.74628 162.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white clock with the hands pointing to 12. The clock is set against a plain background, making it stand out prominently.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 100,
+      "page": 1,
+      "shape_id": 27,
+      "bbox_local": [
+        -162.5,
+        -162.5,
+        162.5,
+        162.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "162.5 0 m\n162.5 89.74628 89.74628 162.5 0 162.5 c\n-89.74628 162.5 -162.5 89.74628 -162.5 0 c\n-162.5 -89.74628 -89.74628 -162.5 0 -162.5 c\n89.74628 -162.5 162.5 -89.74628 162.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white clock drawing. The clock is divided into four sections, each representing an hour on the face of the clock. The top section shows 12 o'clock, while the bottom two sections represent 6 o'clock. The middle section between these two sections indicates 3 o'clock. The clock has a small circle in the center that serves as the focal point for the time display.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 101,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20212.5,
+        19660.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a clock with an arrow pointing to the number 12. The clock is black and white, giving it a classic appearance. It appears that someone has drawn the arrow on top of the clock face using a pencil or marker.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 102,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20212.5,
+        19660.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a clock with an arrow pointing to the right. The clock is black and white, giving it a classic appearance. It appears to be a simple design that focuses on the time-telling aspect rather than any additional decorative elements.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 103,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6812.5,
+        19660.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white drawing of an intricate network of lines, arrows, and circles. The main focus is on the central circle surrounded by numerous smaller circles and lines that extend outwards in various directions. This complex arrangement creates a sense of depth and complexity within the design.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 104,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6812.5,
+        19660.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an intricate network of lines, resembling a complex circuit board. The lines are arranged in various directions, creating a sense of depth and complexity within the design. The precise arrangement of these lines showcases the artist's attention to detail and their ability to capture the essence of a functional system through art.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 105,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        16335.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an arrow pointing to the right. The arrow is positioned in the center of the frame, with its tip directed towards the top left corner. This simple yet striking design captures attention and effectively communicates the intended direction or movement.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 106,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        16335.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with a clock at the center. The clock has an arrow pointing to the number 12, indicating that it is either showing 12 o'clock or about to show 12. The diagram also includes two arrows pointing in different directions, possibly representing the hands of the clock.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 107,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        16935.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with various shapes, including a circle, triangle, and square. The diagram is placed on top of a piece of paper that has been cut out to fit the image perfectly. The paper appears to be folded in half, creating an interesting visual effect.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 108,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        16935.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with various shapes, including a circle. The diagram is set against a white background, making the circle stand out prominently. The diagram also includes arrows pointing in different directions, which may indicate relationships or connections between the elements within the diagram.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 109,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        16335.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and shapes. The main focus is on an oval shape, which appears to be the center of attention in the scene. Surrounding this central figure are various other shapes, including a triangle located at the top left corner, another triangle positioned at the bottom right corner, and two squares situated near the middle-left area of the image.\n\nThe combination of these shapes creates an interesting visual effect that draws the viewer's attention to the oval shape in the center. The contrast between the white background and black lines and shapes adds depth and dimension to the overall composition.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 110,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        16335.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an object with a round hole in the center. The object is positioned on top of a pole, which could be a street sign or another type of structure. The background of the image is plain white, allowing the focus to remain on the main subject - the round object with a hole in its center.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 111,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        16935.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with various shapes, including a circle in the center. The diagram is surrounded by lines of different thicknesses, creating an abstract representation of the objects within it. The overall composition appears to be a creative interpretation or artistic representation rather than a precise depiction of real-life objects.\n\nThe image does not contain any text or additional details about the objects depicted.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 112,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        16935.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram of an object, possibly a camera or a lens. The main focus is on the center of the object, which appears to be a round circle with a small hole in its middle. This central feature is surrounded by various lines and shapes that extend outwards from it, creating a complex network of connections within the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 113,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        9335.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white icon of an upside-down \"X\" shape, which is positioned on the right side. The \"X\" appears to be made up of two circles connected by a line, creating a unique design that stands out against the stark background.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 114,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        9335.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an object with a hole in the center. The drawing is quite detailed, showcasing the intricate design of the object. It appears to be a small mechanical device or part of a larger mechanism, possibly related to photography equipment.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 115,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        9935.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an object, which appears to be a small metal circle. The circle is positioned in the center of the frame, surrounded by various lines that extend outwards from it. These lines are arranged in different directions, creating a sense of depth and dimension within the composition.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 116,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        9935.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white diagram with a circle in the center, surrounded by vertical lines. The diagram appears to be related to a machine or device, possibly used for measuring distances.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 117,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        9335.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white background with black lines and shapes. The main focus is on an oval-shaped object, which appears to be the center of attention in the scene. This object has a hole in its middle, making it stand out against the stark contrast between the white background and black elements.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 118,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        9335.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an object, which appears to be a small metal circle. The drawing is placed on top of a piece of paper that has a vertical line running down the center. This composition creates a sense of balance in the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 119,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        9935.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an object with a hole in the center. The drawing is quite detailed, showcasing the intricate design of the object.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 120,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        9935.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white illustration of an object with a hole in the center. The object is positioned on top of a pole, which has two vertical lines running through it. The background of the image is plain white, allowing the focus to remain on the central object.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 121,
+      "page": 1,
+      "shape_id": 30,
+      "bbox_local": [
+        -300.5,
+        -300.5,
+        300.5,
+        300.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        14314.5,
+        7630.5
+      ],
+      "snippet_raw": "-300.5 0 m\n-300.5 -165.96158 -165.96158 -300.5 0 -300.5 c\n165.96158 -300.5 300.5 -165.96158 300.5 0 c\n300.5 165.96158 165.96158 300.5 0 300.5 c\n-165.96158 300.5 -300.5 165.96158 -300.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 14392 7678 Tm\n0 Tc\n100 Tz 0 Tr\n(2) Tj",
+      "marker_distance": 90.9,
+      "moondream_caption": "The image features a black and white diagram of an electrical switch. The switch is divided into two sections, with the top section labeled \"S\" and the bottom one labeled \"N\". Both sections are connected to a larger circle that represents the entire switch. This diagram provides a clear visual representation of the switch's structure and function in an electrical context.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 122,
+      "page": 1,
+      "shape_id": 30,
+      "bbox_local": [
+        -300.5,
+        -300.5,
+        300.5,
+        300.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        21026.5,
+        7608.5
+      ],
+      "snippet_raw": "-300.5 0 m\n-300.5 -165.96158 -165.96158 -300.5 0 -300.5 c\n165.96158 -300.5 300.5 -165.96158 300.5 0 c\n300.5 165.96158 165.96158 300.5 0 300.5 c\n-165.96158 300.5 -300.5 165.96158 -300.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 21104 7656 Tm\n0 Tc\n100 Tz 0 Tr\n(1) Tj",
+      "marker_distance": 90.9,
+      "moondream_caption": "[Empty Response]",
+      "ocr_has_text": false
+    },
+    {
+      "instance_id": 123,
+      "page": 1,
+      "shape_id": 30,
+      "bbox_local": [
+        -300.5,
+        -300.5,
+        300.5,
+        300.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5925.5,
+        15857.5
+      ],
+      "snippet_raw": "-300.5 0 m\n-300.5 -165.96158 -165.96158 -300.5 0 -300.5 c\n165.96158 -300.5 300.5 -165.96158 300.5 0 c\n300.5 165.96158 165.96158 300.5 0 300.5 c\n-165.96158 300.5 -300.5 165.96158 -300.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 6003 15906 Tm\n0 Tc\n100 Tz 0 Tr\n(3) Tj",
+      "marker_distance": 91.42,
+      "moondream_caption": "[Empty Response]",
+      "ocr_has_text": false
+    },
+    {
+      "instance_id": 124,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11212.5,
+        14610.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a black and white line drawing of an arrow pointing to the right. The arrow is positioned in the center of the frame, with its tip directed towards the top left corner. This simple yet striking design creates a sense of direction and movement within the composition.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 125,
+      "page": 1,
+      "shape_id": 31,
+      "bbox_local": [
+        -374.5,
+        -374.5,
+        374.5,
+        374.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        2371.5,
+        40757.5
+      ],
+      "snippet_raw": "374.5 0 m\n374.5 206.83064 206.83064 374.5 0 374.5 c\n-206.83064 374.5 -374.5 206.83064 -374.5 0 c\n-374.5 -206.83064 -206.83064 -374.5 0 -374.5 c\n206.83064 -374.5 374.5 -206.83064 374.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white circle with the numbers \"1\" and \"4\" written on it. The numbers are positioned in such a way that they appear to be split into two halves, creating an interesting visual effect. This design choice adds a unique touch to the overall appearance of the image.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 126,
+      "page": 1,
+      "shape_id": 31,
+      "bbox_local": [
+        -374.5,
+        -374.5,
+        374.5,
+        374.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        8928.5,
+        40757.5
+      ],
+      "snippet_raw": "374.5 0 m\n374.5 206.83064 206.83064 374.5 0 374.5 c\n-206.83064 374.5 -374.5 206.83064 -374.5 0 c\n-374.5 -206.83064 -206.83064 -374.5 0 -374.5 c\n206.83064 -374.5 374.5 -206.83064 374.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white circle with the numbers \"1\" and \"3\" written on it. The numbers are positioned in such a way that they appear to be floating or floating within the circle, creating an interesting visual effect.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 127,
+      "page": 1,
+      "shape_id": 31,
+      "bbox_local": [
+        -374.5,
+        -374.5,
+        374.5,
+        374.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        15428.5,
+        40757.5
+      ],
+      "snippet_raw": "374.5 0 m\n374.5 206.83064 206.83064 374.5 0 374.5 c\n-206.83064 374.5 -374.5 206.83064 -374.5 0 c\n-374.5 -206.83064 -206.83064 -374.5 0 -374.5 c\n206.83064 -374.5 374.5 -206.83064 374.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white circle with the numbers \"1\" and \"2\" written on it. The numbers are positioned in such a way that they appear to be floating or separated from each other, creating an interesting visual effect.",
+      "ocr_has_text": true
+    },
+    {
+      "instance_id": 128,
+      "page": 1,
+      "shape_id": 31,
+      "bbox_local": [
+        -374.5,
+        -374.5,
+        374.5,
+        374.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        22116.5,
+        40757.5
+      ],
+      "snippet_raw": "374.5 0 m\n374.5 206.83064 206.83064 374.5 0 374.5 c\n-206.83064 374.5 -374.5 206.83064 -374.5 0 c\n-374.5 -206.83064 -206.83064 -374.5 0 -374.5 c\n206.83064 -374.5 374.5 -206.83064 374.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null,
+      "moondream_caption": "The image features a white circle with the letters \"S\" and \"1\" written on it. The letters are positioned in such a way that they appear to be floating or floating on top of the circle, creating an interesting visual effect.",
+      "ocr_has_text": true
+    }
+  ]
+}

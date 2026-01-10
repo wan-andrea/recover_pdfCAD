@@ -105,6 +105,7 @@ A hierarchical list of detected groups (clusters) and their definitions.
     }
   ]
 }
+```
 
 ### 3. Critical Assumptions (CAD/BIM Workflows)
 This approach relies on specific behaviors of AEC software (AutoCAD, Revit, Rhino) when printing to PDF:
