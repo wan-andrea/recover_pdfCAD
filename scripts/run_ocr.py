@@ -2,10 +2,9 @@
 OCR Processor STEP 2.5 (Captions on images)
 =========================================
 
-- Test to run various models via ollama on the cropped shape images.
+- Test to run various models via ollama on the cropped shape images. Not actually OCR.
 - Generates a descriptive caption (Geometry + Text).
 - Saves ONLY 'moondream_caption' and 'ocr_has_text' (boolean).
-- Removes legacy 'ocr_text' field.
 
 Usage:
     python run_ocr_llm.py --json step1_with_markers.json --crops crops/
