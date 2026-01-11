@@ -30,18 +30,34 @@ Deactivate:
 ## 🛠 Usage Pipeline
 Navigate to the experiment directory to run the scripts on your data.
 
-Step 1: Raw Vector Extraction
+### Step 1: Raw Vector Extraction
 Parses the PDF content stream to identify repeating vector shapes (CAD blocks) and extracts them into a normalized registry.
 
 ```python scripts/process_pdf_cad.py --input sample_inputs/example2.pdf --output test_outputs/step1.pdf --json test_outputs/step1.json```
 Note: Replace ```example2.pdf``` with the file you want to run on.
 
-Step 2: Spatial Clustering
+### Step 1.5: Marker Association (Optional)
+I provide an optional tool for debugging. It looks for text entities near the extracted shapes. Shapes with text near them are predicted as annotation markers. It's not failproof, but it's a good first step towards classification.
+
+```python scripts/detect_markers.py --pdf sample_inputs/example2.pdf --input test_outputs/step1.json --output test_outputs/step1_markers.json --output-pdf test_outputs/step1_marked.pdf```
+
+### Step 1.75: Shape Cropping
+Extracts high-resolution images of every unique shape instance, accounting for PDF coordinate systems and rotation.
+
+```python scripts/crop_shapes.py --pdf sample_inputs/example2.pdf --json test_outputs/step1_markers.json --output test_outputs/crops/```
+
+### Step 2: Spatial Clustering
 Analyzes the shape registry to find "constellations" of shapes that appear in fixed relative positions (e.g., a chair always appearing 50 units from a desk).
 
 ```python scripts/find_groups.py --input test_outputs/step1.json --output test_outputs/step2.json```
 
-Step 3: Visualization
+### Step 2.5: Semantic Captioning
+Passes the cropped images to a local Vision-Language Model (VLM) to generate descriptions.
+Note: This code *runs* but is very much WIP. Results are unusable; requires further prompt engineering.
+```python scripts/run_ocr.py --json test_outputs/step1_markers.json --crops test_outputs/crops/ --output test_outputs/step2_ocr.json```
+
+
+### Step 3: Visualization
 Generates a new PDF overlaying the detected spatial groups with color-coded bounding boxes for verification.
 ```python scripts/visualize_groups.py --input sample_inputs/example2.pdf --data test_outputs/step1.json --groups test_outputs/step2.json --output test_outputs/step3.pdf ```
 
@@ -80,6 +96,7 @@ A flat registry of every repeating vector shape found on every page.
     }
   ]
 }
+```
 
 ### 2. Spatial Graph Clustering (Step 2)
 Once individual shapes (e.g., a chair, a monitor) are identified, we use unsupervised clustering to find higher-order groups (e.g., a workstation).
@@ -89,7 +106,7 @@ Once individual shapes (e.g., a chair, a monitor) are identified, we use unsuper
 
 Output: step2_groups.json
 A hierarchical list of detected groups (clusters) and their definitions.
-
+``` json
 {
   "group_definitions": {
     "1": {

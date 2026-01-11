@@ -1,0 +1,3296 @@
+{
+  "metadata": {
+    "source_file": "sample_inputs/example2.pdf",
+    "total_instances": 128,
+    "unique_shapes": 31
+  },
+  "shape_definitions": {
+    "1": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.04500000000000004,
+        0.8172580645161291,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "2": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.5966129032258066,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "3": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.32080645161290305
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "4": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.15532258064516122,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "5": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.7620967741935485,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "6": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.3759677419354839,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "7": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.4311290322580642,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "8": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.6517741935483874,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "9": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.5414516129032262
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "10": {
+      "semantic_label": "Graphic Block",
+      "count": 10,
+      "color_rgb": [
+        0.5966129032258061,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "11": {
+      "semantic_label": "Graphic Block",
+      "count": 10,
+      "color_rgb": [
+        0.7620967741935477,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "12": {
+      "semantic_label": "Graphic Block",
+      "count": 5,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.3759677419354844
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "13": {
+      "semantic_label": "Graphic Block",
+      "count": 5,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "14": {
+      "semantic_label": "Graphic Block",
+      "count": 5,
+      "color_rgb": [
+        0.9,
+        0.7069354838709677,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "15": {
+      "semantic_label": "Graphic Block",
+      "count": 10,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.7069354838709679
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "16": {
+      "semantic_label": "Graphic Block",
+      "count": 3,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.21048387096774185
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "17": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.8172580645161291
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "18": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.2656451612903224,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "19": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.5414516129032257,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "20": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.15532258064516122
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "21": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.21048387096774204,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "22": {
+      "semantic_label": "Annotation Marker",
+      "count": 6,
+      "color_rgb": [
+        0.4311290322580646,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": true
+    },
+    "23": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.2656451612903224,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "24": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.48629032258064514
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "25": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.10016129032258068,
+        0.9,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "26": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.9,
+        0.04500000000000004,
+        0.8724193548387097
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "27": {
+      "semantic_label": "Graphic Block",
+      "count": 2,
+      "color_rgb": [
+        0.04500000000000004,
+        0.32080645161290305,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "28": {
+      "semantic_label": "Graphic Block",
+      "count": 10,
+      "color_rgb": [
+        0.10016129032258068,
+        0.04500000000000004,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "29": {
+      "semantic_label": "Graphic Block",
+      "count": 11,
+      "color_rgb": [
+        0.04500000000000004,
+        0.48629032258064475,
+        0.9
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    },
+    "30": {
+      "semantic_label": "Annotation Marker",
+      "count": 3,
+      "color_rgb": [
+        0.04500000000000004,
+        0.9,
+        0.651774193548387
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": true
+    },
+    "31": {
+      "semantic_label": "Graphic Block",
+      "count": 4,
+      "color_rgb": [
+        0.9,
+        0.8724193548387097,
+        0.04500000000000004
+      ],
+      "is_closed": false,
+      "is_predicted_annotation_marker": false
+    }
+  },
+  "instances": [
+    {
+      "instance_id": 1,
+      "page": 1,
+      "shape_id": 1,
+      "bbox_local": [
+        0.0,
+        0.0,
+        46.5,
+        46.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24393.5,
+        35703.5
+      ],
+      "snippet_raw": "46.5 0 m\n46.5 25.68124 25.68124 46.5 0 46.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 2,
+      "page": 1,
+      "shape_id": 2,
+      "bbox_local": [
+        -74.5,
+        -75.5,
+        0.0,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24515.5,
+        36434.5
+      ],
+      "snippet_raw": "-74.5 0 m\n-74.5 -41.6975 -41.14521 -75.5 0 -75.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 3,
+      "page": 1,
+      "shape_id": 1,
+      "bbox_local": [
+        0.0,
+        0.0,
+        46.5,
+        46.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25246.5,
+        36556.5
+      ],
+      "snippet_raw": "46.5 0 m\n46.5 25.68124 25.68124 46.5 0 46.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 4,
+      "page": 1,
+      "shape_id": 3,
+      "bbox_local": [
+        -142.12634,
+        -60.52289,
+        -123.46348,
+        51.74083
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25605.5,
+        39437.5
+      ],
+      "snippet_raw": "-127.39363 51.74083 m\n-142.12634 15.46668 -140.69681 -25.36782 -123.46348 -60.52289 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 5,
+      "page": 1,
+      "shape_id": 4,
+      "bbox_local": [
+        104.33041,
+        -56.19088,
+        123.2232,
+        56.19088
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25601.5,
+        39287.5
+      ],
+      "snippet_raw": "104.33041 -56.19088 m\n123.2232 -21.11238 123.2232 21.11238 104.33041 56.19088 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 6,
+      "page": 1,
+      "shape_id": 5,
+      "bbox_local": [
+        -28.5,
+        -28.5,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25601.5,
+        39425.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c\n-15.74012 28.5 -28.5 15.74012 -28.5 0 c\n-28.5 -15.74012 -15.74012 -28.5 0 -28.5 c\n15.74012 -28.5 28.5 -15.74012 28.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 7,
+      "page": 1,
+      "shape_id": 5,
+      "bbox_local": [
+        -28.5,
+        -28.5,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25601.5,
+        39312.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c\n-15.74012 28.5 -28.5 15.74012 -28.5 0 c\n-28.5 -15.74012 -15.74012 -28.5 0 -28.5 c\n15.74012 -28.5 28.5 -15.74012 28.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 8,
+      "page": 1,
+      "shape_id": 3,
+      "bbox_local": [
+        -142.12634,
+        -60.52289,
+        -123.46348,
+        51.74083
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24960.5,
+        36358.5
+      ],
+      "snippet_raw": "-127.39363 51.74083 m\n-142.12634 15.46668 -140.69681 -25.36782 -123.46348 -60.52289 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 9,
+      "page": 1,
+      "shape_id": 4,
+      "bbox_local": [
+        104.33041,
+        -56.19088,
+        123.2232,
+        56.19088
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24955.5,
+        36208.5
+      ],
+      "snippet_raw": "104.33041 -56.19088 m\n123.2232 -21.11238 123.2232 21.11238 104.33041 56.19088 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 10,
+      "page": 1,
+      "shape_id": 5,
+      "bbox_local": [
+        -28.5,
+        -28.5,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24955.5,
+        36345.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c\n-15.74012 28.5 -28.5 15.74012 -28.5 0 c\n-28.5 -15.74012 -15.74012 -28.5 0 -28.5 c\n15.74012 -28.5 28.5 -15.74012 28.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 11,
+      "page": 1,
+      "shape_id": 5,
+      "bbox_local": [
+        -28.5,
+        -28.5,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24955.5,
+        36233.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c\n-15.74012 28.5 -28.5 15.74012 -28.5 0 c\n-28.5 -15.74012 -15.74012 -28.5 0 -28.5 c\n15.74012 -28.5 28.5 -15.74012 28.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 12,
+      "page": 1,
+      "shape_id": 1,
+      "bbox_local": [
+        0.0,
+        0.0,
+        46.5,
+        46.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        25246.5,
+        36556.5
+      ],
+      "snippet_raw": "46.5 0 m\n46.5 25.68124 25.68124 46.5 0 46.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 13,
+      "page": 1,
+      "shape_id": 1,
+      "bbox_local": [
+        0.0,
+        0.0,
+        46.5,
+        46.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        24393.5,
+        35703.5
+      ],
+      "snippet_raw": "46.5 0 m\n46.5 25.68124 25.68124 46.5 0 46.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 14,
+      "page": 1,
+      "shape_id": 6,
+      "bbox_local": [
+        91.71671,
+        -65.14826,
+        119.42776,
+        65.14826
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5409.5,
+        34490.5
+      ],
+      "snippet_raw": "91.71671 -65.14826 m\n119.42776 -26.13621 119.42776 26.13621 91.71671 65.14826 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 15,
+      "page": 1,
+      "shape_id": 7,
+      "bbox_local": [
+        14.95941,
+        -32.19419,
+        35.5,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5312.5,
+        34413.5
+      ],
+      "snippet_raw": "14.95941 -32.19419 m\n27.48683 -26.37318 35.5 -13.81378 35.5 0 c\n35.5 13.81378 27.48683 26.37318 14.95941 32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 16,
+      "page": 1,
+      "shape_id": 7,
+      "bbox_local": [
+        14.95941,
+        -32.19419,
+        35.5,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5507.5,
+        34413.5
+      ],
+      "snippet_raw": "14.95941 -32.19419 m\n27.48683 -26.37318 35.5 -13.81378 35.5 0 c\n35.5 13.81378 27.48683 26.37318 14.95941 32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 17,
+      "page": 1,
+      "shape_id": 2,
+      "bbox_local": [
+        -74.5,
+        -75.5,
+        0.0,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4969.5,
+        35678.5
+      ],
+      "snippet_raw": "-74.5 0 m\n-74.5 -41.6975 -41.14521 -75.5 0 -75.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 18,
+      "page": 1,
+      "shape_id": 8,
+      "bbox_local": [
+        0.0,
+        0.0,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5719.5,
+        35782.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 19,
+      "page": 1,
+      "shape_id": 8,
+      "bbox_local": [
+        0.0,
+        0.0,
+        28.5,
+        28.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4866.5,
+        34928.5
+      ],
+      "snippet_raw": "28.5 0 m\n28.5 15.74012 15.74012 28.5 0 28.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 20,
+      "page": 1,
+      "shape_id": 9,
+      "bbox_local": [
+        -112.5,
+        -112.5,
+        112.5,
+        112.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5269.5,
+        39766.5
+      ],
+      "snippet_raw": "112.5 0 m\n112.5 62.13204 62.13204 112.5 0 112.5 c\n-62.13204 112.5 -112.5 62.13204 -112.5 0 c\n-112.5 -62.13204 -62.13204 -112.5 0 -112.5 c\n62.13204 -112.5 112.5 -62.13204 112.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 21,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5464.5,
+        35163.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 22,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5464.5,
+        35374.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 23,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6026.5,
+        35163.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 24,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6026.5,
+        35374.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 25,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6026.5,
+        35268.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 26,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5464.5,
+        35268.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 27,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5006.5,
+        35275.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 28,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4930.5,
+        35373.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 29,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4930.5,
+        35178.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 30,
+      "page": 1,
+      "shape_id": 9,
+      "bbox_local": [
+        -112.5,
+        -112.5,
+        112.5,
+        112.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5269.5,
+        37966.5
+      ],
+      "snippet_raw": "112.5 0 m\n112.5 62.13204 62.13204 112.5 0 112.5 c\n-62.13204 112.5 -112.5 62.13204 -112.5 0 c\n-112.5 -62.13204 -62.13204 -112.5 0 -112.5 c\n62.13204 -112.5 112.5 -62.13204 112.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 31,
+      "page": 1,
+      "shape_id": 16,
+      "bbox_local": [
+        -61.85635,
+        -62.3388,
+        34.81181,
+        62.99935
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5586.5,
+        37966.5
+      ],
+      "snippet_raw": "31.77599 46.71762 m\n7.83831 62.99935 -24.53311 58.55325 -43.19473 36.42067 c\n-61.85635 14.28809 -60.7695 -18.36914 -40.67764 -39.21199 c\n-20.58577 -60.05483 12.00962 -62.3388 34.81181 -44.50155 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 32,
+      "page": 1,
+      "shape_id": 16,
+      "bbox_local": [
+        -61.85635,
+        -62.3388,
+        34.81181,
+        62.99935
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5302.5,
+        41007.5
+      ],
+      "snippet_raw": "31.77599 46.71762 m\n7.83831 62.99935 -24.53311 58.55325 -43.19473 36.42067 c\n-61.85635 14.28809 -60.7695 -18.36914 -40.67764 -39.21199 c\n-20.58577 -60.05483 12.00962 -62.3388 34.81181 -44.50155 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 33,
+      "page": 1,
+      "shape_id": 16,
+      "bbox_local": [
+        -61.85635,
+        -62.3388,
+        34.81181,
+        62.99935
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5586.5,
+        39766.5
+      ],
+      "snippet_raw": "31.77599 46.71762 m\n7.83831 62.99935 -24.53311 58.55325 -43.19473 36.42067 c\n-61.85635 14.28809 -60.7695 -18.36914 -40.67764 -39.21199 c\n-20.58577 -60.05483 12.00962 -62.3388 34.81181 -44.50155 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 34,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        38235.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 35,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        38446.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 36,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        38235.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 37,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        38446.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 38,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        38341.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 39,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        38341.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 40,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4455.5,
+        38341.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 41,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4379.5,
+        38438.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 42,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4379.5,
+        38244.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 43,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        40035.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 44,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        40246.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 45,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        40035.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 46,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        40246.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 47,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5700.5,
+        40141.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 48,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5288.5,
+        40141.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 49,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4455.5,
+        40141.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 50,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4379.5,
+        40238.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 51,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        4379.5,
+        40044.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 52,
+      "page": 1,
+      "shape_id": 17,
+      "bbox_local": [
+        -84.5,
+        -84.5,
+        84.5,
+        84.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20108.5,
+        38134.5
+      ],
+      "snippet_raw": "84.5 0 m\n84.5 46.66806 46.66806 84.5 0 84.5 c\n-46.66806 84.5 -84.5 46.66806 -84.5 0 c\n-84.5 -46.66806 -46.66806 -84.5 0 -84.5 c\n46.66806 -84.5 84.5 -46.66806 84.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 53,
+      "page": 1,
+      "shape_id": 17,
+      "bbox_local": [
+        -84.5,
+        -84.5,
+        84.5,
+        84.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20108.5,
+        36934.5
+      ],
+      "snippet_raw": "84.5 0 m\n84.5 46.66806 46.66806 84.5 0 84.5 c\n-46.66806 84.5 -84.5 46.66806 -84.5 0 c\n-84.5 -46.66806 -46.66806 -84.5 0 -84.5 c\n46.66806 -84.5 84.5 -46.66806 84.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 54,
+      "page": 1,
+      "shape_id": 18,
+      "bbox_local": [
+        0.0,
+        0.0,
+        23.5,
+        23.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17480.5,
+        34573.5
+      ],
+      "snippet_raw": "23.5 0 m\n23.5 12.97869 12.97869 23.5 0 23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 55,
+      "page": 1,
+      "shape_id": 18,
+      "bbox_local": [
+        0.0,
+        0.0,
+        23.5,
+        23.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18333.5,
+        35426.5
+      ],
+      "snippet_raw": "23.5 0 m\n23.5 12.97869 12.97869 23.5 0 23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 56,
+      "page": 1,
+      "shape_id": 19,
+      "bbox_local": [
+        -23.5,
+        -23.5,
+        0.0,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17526.5,
+        35379.5
+      ],
+      "snippet_raw": "-23.5 0 m\n-23.5 -12.97869 -12.97869 -23.5 0 -23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 57,
+      "page": 1,
+      "shape_id": 20,
+      "bbox_local": [
+        -35.5,
+        -32.19419,
+        -14.95941,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18116.5,
+        35627.5
+      ],
+      "snippet_raw": "-14.95941 32.19419 m\n-27.48683 26.37318 -35.5 13.81378 -35.5 0 c\n-35.5 -13.81378 -27.48683 -26.37318 -14.95941 -32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 58,
+      "page": 1,
+      "shape_id": 20,
+      "bbox_local": [
+        -35.5,
+        -32.19419,
+        -14.95941,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17921.5,
+        35627.5
+      ],
+      "snippet_raw": "-14.95941 32.19419 m\n-27.48683 26.37318 -35.5 13.81378 -35.5 0 c\n-35.5 -13.81378 -27.48683 -26.37318 -14.95941 -32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 59,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        40865.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 60,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        40654.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 61,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        40865.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 62,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        40654.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 63,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        40759.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 64,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        40759.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 65,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17804.5,
+        40759.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 66,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17728.5,
+        40857.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 67,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17728.5,
+        40662.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 68,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        39665.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 69,
+      "page": 1,
+      "shape_id": 11,
+      "bbox_local": [
+        -35.5,
+        0.0,
+        35.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        39454.5
+      ],
+      "snippet_raw": "35.5 0 m\n35.5 10.21727 19.60611 18.5 0 18.5 c\n-19.60611 18.5 -35.5 10.21727 -35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 70,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        39665.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 71,
+      "page": 1,
+      "shape_id": 10,
+      "bbox_local": [
+        -35.5,
+        -18.5,
+        35.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        39454.5
+      ],
+      "snippet_raw": "-35.5 0 m\n-35.5 -10.21727 -19.60611 -18.5 0 -18.5 c\n19.60611 -18.5 35.5 -10.21727 35.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 72,
+      "page": 1,
+      "shape_id": 13,
+      "bbox_local": [
+        -70.5,
+        -18.5,
+        70.5,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17971.5,
+        39559.5
+      ],
+      "snippet_raw": "-70.5 0 m\n-70.5 -10.21727 -38.93608 -18.5 0 -18.5 c\n38.93608 -18.5 70.5 -10.21727 70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 73,
+      "page": 1,
+      "shape_id": 12,
+      "bbox_local": [
+        -70.5,
+        0.0,
+        70.5,
+        18.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        18346.5,
+        39559.5
+      ],
+      "snippet_raw": "70.5 0 m\n70.5 10.21727 38.93608 18.5 0 18.5 c\n-38.93608 18.5 -70.5 10.21727 -70.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 74,
+      "page": 1,
+      "shape_id": 14,
+      "bbox_local": [
+        -65.14826,
+        -119.42776,
+        65.14826,
+        -91.71671
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17804.5,
+        39559.5
+      ],
+      "snippet_raw": "-65.14826 -91.71671 m\n-26.13621 -119.42776 26.13621 -119.42776 65.14826 -91.71671 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 75,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17728.5,
+        39462.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 76,
+      "page": 1,
+      "shape_id": 15,
+      "bbox_local": [
+        -32.19419,
+        -35.5,
+        32.19419,
+        -14.95941
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        17728.5,
+        39657.5
+      ],
+      "snippet_raw": "-32.19419 -14.95941 m\n-26.37318 -27.48683 -13.81378 -35.5 0 -35.5 c\n13.81378 -35.5 26.37318 -27.48683 32.19419 -14.95941 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 77,
+      "page": 1,
+      "shape_id": 21,
+      "bbox_local": [
+        -93.5,
+        -93.5,
+        93.5,
+        93.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11767.5,
+        37971.5
+      ],
+      "snippet_raw": "93.5 0 m\n93.5 51.63863 51.63863 93.5 0 93.5 c\n-51.63863 93.5 -93.5 51.63863 -93.5 0 c\n-93.5 -51.63863 -51.63863 -93.5 0 -93.5 c\n51.63863 -93.5 93.5 -51.63863 93.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 78,
+      "page": 1,
+      "shape_id": 21,
+      "bbox_local": [
+        -93.5,
+        -93.5,
+        93.5,
+        93.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11767.5,
+        39771.5
+      ],
+      "snippet_raw": "93.5 0 m\n93.5 51.63863 51.63863 93.5 0 93.5 c\n-51.63863 93.5 -93.5 51.63863 -93.5 0 c\n-93.5 -51.63863 -51.63863 -93.5 0 -93.5 c\n51.63863 -93.5 93.5 -51.63863 93.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 79,
+      "page": 1,
+      "shape_id": 18,
+      "bbox_local": [
+        0.0,
+        0.0,
+        23.5,
+        23.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11228.5,
+        35336.5
+      ],
+      "snippet_raw": "23.5 0 m\n23.5 12.97869 12.97869 23.5 0 23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 80,
+      "page": 1,
+      "shape_id": 18,
+      "bbox_local": [
+        0.0,
+        0.0,
+        23.5,
+        23.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        12081.5,
+        36189.5
+      ],
+      "snippet_raw": "23.5 0 m\n23.5 12.97869 12.97869 23.5 0 23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 81,
+      "page": 1,
+      "shape_id": 19,
+      "bbox_local": [
+        -23.5,
+        -23.5,
+        0.0,
+        0.0
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11275.5,
+        36142.5
+      ],
+      "snippet_raw": "-23.5 0 m\n-23.5 -12.97869 -12.97869 -23.5 0 -23.5 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 82,
+      "page": 1,
+      "shape_id": 6,
+      "bbox_local": [
+        91.71671,
+        -65.14826,
+        119.42776,
+        65.14826
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11767.5,
+        34901.5
+      ],
+      "snippet_raw": "91.71671 -65.14826 m\n119.42776 -26.13621 119.42776 26.13621 91.71671 65.14826 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 83,
+      "page": 1,
+      "shape_id": 7,
+      "bbox_local": [
+        14.95941,
+        -32.19419,
+        35.5,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11670.5,
+        34825.5
+      ],
+      "snippet_raw": "14.95941 -32.19419 m\n27.48683 -26.37318 35.5 -13.81378 35.5 0 c\n35.5 13.81378 27.48683 26.37318 14.95941 32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 84,
+      "page": 1,
+      "shape_id": 7,
+      "bbox_local": [
+        14.95941,
+        -32.19419,
+        35.5,
+        32.19419
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11864.5,
+        34825.5
+      ],
+      "snippet_raw": "14.95941 -32.19419 m\n27.48683 -26.37318 35.5 -13.81378 35.5 0 c\n35.5 13.81378 27.48683 26.37318 14.95941 32.19419 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 85,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        23650.5,
+        8360.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 23576 8419 Tm\n0 Tc\n100 Tz 0 Tr\n(3) Tj",
+      "marker_distance": 94.72
+    },
+    {
+      "instance_id": 86,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        23650.5,
+        16760.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 23574 16819 Tm\n0 Tc\n100 Tz 0 Tr\n(2) Tj",
+      "marker_distance": 96.3
+    },
+    {
+      "instance_id": 87,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        23650.5,
+        19760.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 23574 19819 Tm\n0 Tc\n100 Tz 0 Tr\n(1) Tj",
+      "marker_distance": 96.3
+    },
+    {
+      "instance_id": 88,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20312.5,
+        23098.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 89,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13512.5,
+        23098.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 90,
+      "page": 1,
+      "shape_id": 22,
+      "bbox_local": [
+        -187.5,
+        -187.5,
+        187.5,
+        187.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6712.5,
+        23098.5
+      ],
+      "snippet_raw": "187.5 0 m\n187.5 103.5534 103.5534 187.5 0 187.5 c\n-103.5534 187.5 -187.5 103.5534 -187.5 0 c\n-187.5 -103.5534 -103.5534 -187.5 0 -187.5 c\n103.5534 -187.5 187.5 -103.5534 187.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 91,
+      "page": 1,
+      "shape_id": 23,
+      "bbox_local": [
+        -161.41499,
+        18.74703,
+        161.41499,
+        162.5
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "161.41499 18.74703 m\n151.89801 100.6898 82.49358 162.5 0 162.5 c\n-82.49358 162.5 -151.89801 100.6898 -161.41499 18.74703 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 92,
+      "page": 1,
+      "shape_id": 24,
+      "bbox_local": [
+        -161.41499,
+        -162.5,
+        161.41499,
+        -18.74703
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "-161.41499 -18.74703 m\n-151.89801 -100.6898 -82.49358 -162.5 0 -162.5 c\n82.49358 -162.5 151.89801 -100.6898 161.41499 -18.74703 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 93,
+      "page": 1,
+      "shape_id": 25,
+      "bbox_local": [
+        -149.31998,
+        -150.5,
+        149.31998,
+        -18.8094
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "-149.31998 -18.8094 m\n-139.84079 -94.06078 -75.84606 -150.5 0 -150.5 c\n75.84606 -150.5 139.84079 -94.06078 149.31998 -18.8094 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 94,
+      "page": 1,
+      "shape_id": 26,
+      "bbox_local": [
+        -149.31998,
+        18.8094,
+        149.31998,
+        150.5
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "149.31998 18.8094 m\n139.84079 94.06078 75.84606 150.5 0 150.5 c\n-75.84606 150.5 -139.84079 94.06078 -149.31998 18.8094 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 95,
+      "page": 1,
+      "shape_id": 23,
+      "bbox_local": [
+        -161.41499,
+        18.74703,
+        161.41499,
+        162.5
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "161.41499 18.74703 m\n151.89801 100.6898 82.49358 162.5 0 162.5 c\n-82.49358 162.5 -151.89801 100.6898 -161.41499 18.74703 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 96,
+      "page": 1,
+      "shape_id": 24,
+      "bbox_local": [
+        -161.41499,
+        -162.5,
+        161.41499,
+        -18.74703
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "-161.41499 -18.74703 m\n-151.89801 -100.6898 -82.49358 -162.5 0 -162.5 c\n82.49358 -162.5 151.89801 -100.6898 161.41499 -18.74703 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 97,
+      "page": 1,
+      "shape_id": 25,
+      "bbox_local": [
+        -149.31998,
+        -150.5,
+        149.31998,
+        -18.8094
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "-149.31998 -18.8094 m\n-139.84079 -94.06078 -75.84606 -150.5 0 -150.5 c\n75.84606 -150.5 139.84079 -94.06078 149.31998 -18.8094 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 98,
+      "page": 1,
+      "shape_id": 26,
+      "bbox_local": [
+        -149.31998,
+        18.8094,
+        149.31998,
+        150.5
+      ],
+      "transform_matrix": [
+        -1.0,
+        0.0,
+        0.0,
+        -1.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "149.31998 18.8094 m\n139.84079 94.06078 75.84606 150.5 0 150.5 c\n-75.84606 150.5 -139.84079 94.06078 -149.31998 18.8094 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 99,
+      "page": 1,
+      "shape_id": 27,
+      "bbox_local": [
+        -162.5,
+        -162.5,
+        162.5,
+        162.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11812.5,
+        11660.5
+      ],
+      "snippet_raw": "162.5 0 m\n162.5 89.74628 89.74628 162.5 0 162.5 c\n-89.74628 162.5 -162.5 89.74628 -162.5 0 c\n-162.5 -89.74628 -89.74628 -162.5 0 -162.5 c\n89.74628 -162.5 162.5 -89.74628 162.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 100,
+      "page": 1,
+      "shape_id": 27,
+      "bbox_local": [
+        -162.5,
+        -162.5,
+        162.5,
+        162.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        16612.5,
+        11660.5
+      ],
+      "snippet_raw": "162.5 0 m\n162.5 89.74628 89.74628 162.5 0 162.5 c\n-89.74628 162.5 -162.5 89.74628 -162.5 0 c\n-162.5 -89.74628 -89.74628 -162.5 0 -162.5 c\n89.74628 -162.5 162.5 -89.74628 162.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 101,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20212.5,
+        19660.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 102,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        20212.5,
+        19660.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 103,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6812.5,
+        19660.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 104,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        6812.5,
+        19660.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 105,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        16335.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 106,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        16335.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 107,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        16935.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 108,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        16935.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 109,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        16335.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 110,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        16335.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 111,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        16935.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 112,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        16935.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 113,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        9335.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 114,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        9335.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 115,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        9935.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 116,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13335.5,
+        9935.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 117,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        9335.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 118,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        9335.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 119,
+      "page": 1,
+      "shape_id": 28,
+      "bbox_local": [
+        -43.5,
+        -43.5,
+        43.5,
+        43.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        9935.5
+      ],
+      "snippet_raw": "43.5 0 m\n43.5 24.02439 24.02439 43.5 0 43.5 c\n-24.02439 43.5 -43.5 24.02439 -43.5 0 c\n-43.5 -24.02439 -24.02439 -43.5 0 -43.5 c\n24.02439 -43.5 43.5 -24.02439 43.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 120,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        13688.5,
+        9935.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 121,
+      "page": 1,
+      "shape_id": 30,
+      "bbox_local": [
+        -300.5,
+        -300.5,
+        300.5,
+        300.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        14314.5,
+        7630.5
+      ],
+      "snippet_raw": "-300.5 0 m\n-300.5 -165.96158 -165.96158 -300.5 0 -300.5 c\n165.96158 -300.5 300.5 -165.96158 300.5 0 c\n300.5 165.96158 165.96158 300.5 0 300.5 c\n-165.96158 300.5 -300.5 165.96158 -300.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 14392 7678 Tm\n0 Tc\n100 Tz 0 Tr\n(2) Tj",
+      "marker_distance": 90.9
+    },
+    {
+      "instance_id": 122,
+      "page": 1,
+      "shape_id": 30,
+      "bbox_local": [
+        -300.5,
+        -300.5,
+        300.5,
+        300.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        21026.5,
+        7608.5
+      ],
+      "snippet_raw": "-300.5 0 m\n-300.5 -165.96158 -165.96158 -300.5 0 -300.5 c\n165.96158 -300.5 300.5 -165.96158 300.5 0 c\n300.5 165.96158 165.96158 300.5 0 300.5 c\n-165.96158 300.5 -300.5 165.96158 -300.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 21104 7656 Tm\n0 Tc\n100 Tz 0 Tr\n(1) Tj",
+      "marker_distance": 90.9
+    },
+    {
+      "instance_id": 123,
+      "page": 1,
+      "shape_id": 30,
+      "bbox_local": [
+        -300.5,
+        -300.5,
+        300.5,
+        300.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        5925.5,
+        15857.5
+      ],
+      "snippet_raw": "-300.5 0 m\n-300.5 -165.96158 -165.96158 -300.5 0 -300.5 c\n165.96158 -300.5 300.5 -165.96158 300.5 0 c\n300.5 165.96158 165.96158 300.5 0 300.5 c\n-165.96158 300.5 -300.5 165.96158 -300.5 0 c S",
+      "is_predicted_annotation_marker": true,
+      "marker_text_raw": "0 -1 1 0 6003 15906 Tm\n0 Tc\n100 Tz 0 Tr\n(3) Tj",
+      "marker_distance": 91.42
+    },
+    {
+      "instance_id": 124,
+      "page": 1,
+      "shape_id": 29,
+      "bbox_local": [
+        -25.5,
+        -25.5,
+        25.5,
+        25.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        11212.5,
+        14610.5
+      ],
+      "snippet_raw": "25.5 0 m\n25.5 14.08326 14.08326 25.5 0 25.5 c\n-14.08326 25.5 -25.5 14.08326 -25.5 0 c\n-25.5 -14.08326 -14.08326 -25.5 0 -25.5 c\n14.08326 -25.5 25.5 -14.08326 25.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 125,
+      "page": 1,
+      "shape_id": 31,
+      "bbox_local": [
+        -374.5,
+        -374.5,
+        374.5,
+        374.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        2371.5,
+        40757.5
+      ],
+      "snippet_raw": "374.5 0 m\n374.5 206.83064 206.83064 374.5 0 374.5 c\n-206.83064 374.5 -374.5 206.83064 -374.5 0 c\n-374.5 -206.83064 -206.83064 -374.5 0 -374.5 c\n206.83064 -374.5 374.5 -206.83064 374.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 126,
+      "page": 1,
+      "shape_id": 31,
+      "bbox_local": [
+        -374.5,
+        -374.5,
+        374.5,
+        374.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        8928.5,
+        40757.5
+      ],
+      "snippet_raw": "374.5 0 m\n374.5 206.83064 206.83064 374.5 0 374.5 c\n-206.83064 374.5 -374.5 206.83064 -374.5 0 c\n-374.5 -206.83064 -206.83064 -374.5 0 -374.5 c\n206.83064 -374.5 374.5 -206.83064 374.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 127,
+      "page": 1,
+      "shape_id": 31,
+      "bbox_local": [
+        -374.5,
+        -374.5,
+        374.5,
+        374.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        15428.5,
+        40757.5
+      ],
+      "snippet_raw": "374.5 0 m\n374.5 206.83064 206.83064 374.5 0 374.5 c\n-206.83064 374.5 -374.5 206.83064 -374.5 0 c\n-374.5 -206.83064 -206.83064 -374.5 0 -374.5 c\n206.83064 -374.5 374.5 -206.83064 374.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    },
+    {
+      "instance_id": 128,
+      "page": 1,
+      "shape_id": 31,
+      "bbox_local": [
+        -374.5,
+        -374.5,
+        374.5,
+        374.5
+      ],
+      "transform_matrix": [
+        0.0,
+        -1.0,
+        1.0,
+        0.0,
+        22116.5,
+        40757.5
+      ],
+      "snippet_raw": "374.5 0 m\n374.5 206.83064 206.83064 374.5 0 374.5 c\n-206.83064 374.5 -374.5 206.83064 -374.5 0 c\n-374.5 -206.83064 -206.83064 -374.5 0 -374.5 c\n206.83064 -374.5 374.5 -206.83064 374.5 0 c S",
+      "is_predicted_annotation_marker": false,
+      "marker_text_raw": null,
+      "marker_distance": null
+    }
+  ]
+}
