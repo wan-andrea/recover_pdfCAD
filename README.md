@@ -23,7 +23,9 @@ Prerequisites: Ensure you have Anaconda or Miniconda installed.
 Create Environment:
 ```conda env create -f environment.yml```
 Activate:
-```conda activate space-planning```
+```conda activate recover_pdfCAD```
+Deactivate:
+```conda deactivate```
 
 ## 🛠 Usage Pipeline
 Navigate to the experiment directory to run the scripts on your data.
@@ -31,16 +33,17 @@ Navigate to the experiment directory to run the scripts on your data.
 Step 1: Raw Vector Extraction
 Parses the PDF content stream to identify repeating vector shapes (CAD blocks) and extracts them into a normalized registry.
 
-```python process_cad.py --input example1.pdf --output step1.pdf --json step1.json```
+```python scripts/process_pdf_cad.py --input sample_inputs/example2.pdf --output test_outputs/step1.pdf --json test_outputs/step1.json```
+Note: Replace ```example2.pdf``` with the file you want to run on.
 
 Step 2: Spatial Clustering
 Analyzes the shape registry to find "constellations" of shapes that appear in fixed relative positions (e.g., a chair always appearing 50 units from a desk).
 
-```python find_groups.py --input step1.json --output step2.json```
+```python scripts/find_groups.py --input test_outputs/step1.json --output test_outputs/step2.json```
 
 Step 3: Visualization
 Generates a new PDF overlaying the detected spatial groups with color-coded bounding boxes for verification.
-```python visualize_groups.py --input example1.pdf --data step1.json --groups step2_groups.json --output step3.pdf```
+```python scripts/visualize_groups.py --input sample_inputs/example2.pdf --data test_outputs/step1.json --groups test_outputs/step2.json --output test_outputs/step3.pdf ```
 
 ## 🧠 Methodology
 This prototype bypasses traditional raster-based Computer Vision (CNNs/YOLO) in favor of analyzing the raw PostScript-like vector commands hidden within the PDF stream.

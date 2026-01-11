@@ -1,0 +1,13 @@
+name: recover_pdfCAD
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy             # Used in find_groups.py (spatial math)
+  - scikit-learn      # Used in find_groups.py (KDTree clustering)
+  - pip
+  - pip:
+      - PyPDF2        # Used in detect_markers, process_pdf_cad, visualize_groups
+      - pymupdf       # Used in crop_shapes.py (import fitz)
+      - ollama        # Used in run_ocr.py

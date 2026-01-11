@@ -1,8 +1,7 @@
 """
 PDF Shape Cropper STEP 2 (v5 - Global Transform Awareness)
 ==========================================================
-
-Fixes the "Blank/Wrong Image" issue by parsing the Global Page Transformation Matrix.
+This script crops shapes from a PDF based on JSON coordinates of bboxes produced by Step 1.
 1. Reads the raw PDF content stream header.
 2. Extracts the initial 'cm' operator (the Global Scale Factor) that Step 1 ignored.
 3. Applies this transform to the JSON coordinates.

@@ -111,26 +111,9 @@ def create_visualization_pdf(input_pdf, data_json, groups_json, output_pdf):
             new_stream = DecodedStreamObject()
             new_stream.set_data(final_stream_data.encode('latin-1'))
             
-            # CRITICAL FIX: Register object with writer BEFORE adding to page content array
-            # We can't do this easily with PyPDF2 in this order because the page belongs to 'reader' 
-            # and we are adding it to 'writer' later.
-            
-            # Solution: We modify the page object BEFORE adding it to the writer.
-            # But the new stream needs to be an IndirectObject.
-            
-            # We can cheat by using writer.add_object() but we don't have the writer reference easily inside the loop 
-            # unless we add the page first? No.
-            
-            # Actually, PyPDF2's ArrayObject.append() expects a reference if we are cloning.
-            # The easiest fix is to just let the writer handle the stream creation via `writer.add_page`.
-            # But we are modifying the page in place.
-            
-            # Robust Fix:
             # 1. Create the stream.
             # 2. Add the page to the writer (it clones the reader's page).
             # 3. Modify the CLONED page in the writer.
-            
-            # Let's change the loop structure:
             
             pass # We will handle logic below to avoid nesting depth
             

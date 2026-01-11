@@ -1,8 +1,8 @@
 """
-OCR Processor STEP 2.5 (Final Captioning)
+OCR Processor STEP 2.5 (Captions on images)
 =========================================
 
-- Runs Moondream VLM on crops.
+- Test to run various models via ollama on the cropped shape images.
 - Generates a descriptive caption (Geometry + Text).
 - Saves ONLY 'moondream_caption' and 'ocr_has_text' (boolean).
 - Removes legacy 'ocr_text' field.
